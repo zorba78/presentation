@@ -17,4 +17,5 @@ use_git_config(user.name = "zorba78", user.email = "bonchoku78@gmail.com")
 git_sitrep()
 create_github_token()
 #token:  472404eb3e4122feab10e316bba0ce54d635db10
+usethis::use_git()
 usethis::use_github()
