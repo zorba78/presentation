@@ -2,11 +2,11 @@ Package: presentation
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R:
-    person(given = "First",
-           family = "Last",
+    person(given = "Boncho",
+           family = "Ku",
            role = c("aut", "cre"),
-           email = "first.last@example.com")
-Description: What the package does (one paragraph).
+           email = "secondmoon@kiom.ew.ke")
+Description: This repository contains the materials for talks and presentations
 License: MIT + file LICENSE
 ByteCompile: true
 Encoding: UTF-8
