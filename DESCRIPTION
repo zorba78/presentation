@@ -17,3 +17,5 @@ Imports: bookdown,
     here
 Suggests: devtools,
     git2r
+URL: https://github.com/zorba78/presentation
+BugReports: https://github.com/zorba78/presentation/issues
