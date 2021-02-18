@@ -1,0 +1,71 @@
+---
+title: "Minimally Clinically Important Significant Difference (MCID)"
+subtitle: "Review and Explanation"
+author: "<strong>Boncho Ku, Ph.D. in Statistics</strong>"
+institute: "<br/> Korea Institute of Oriental Medicine"
+date: "<br> 2021/03/23 "
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: [default, metropolis, metropolis-fonts, ../assets/css/footer.css, ../assets/css/metropolis-ak.css]
+    nature:
+      highlightStyle: github
+      titleSlideClass: [middle, left]
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+layout: true
+
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+---
+# `r emo::ji("wave")` Hello
+
+### me: **Boncho Ku**
+
+- **Statistician**, _Korea Institute of Oriental Medicine_
+    + github: **@zorba78**
+    + email: **secondmoon@kiom.re.kr**
+
+- **Team**: Clinical Research Coordinating Team    
+
+
+### Current Works in KIOM
+
+.pull-left[
+#### **Data Science**
+- Statistical learning model
+- Text mining
+- Data linkage/statistical matching
+- Data management
+]
+
+
+.pull-right[
+#### **Biostatistics**
+- Experiment & study design: RCT and observational study 
+- Sample size calculation
+- Statistical consulting and lecturing
+]
+
+
+### Slides: **zorba78.github.io/presentation**
+
+
+---
+class: inverse, center, middle
+
+# Significance??
+
+
+---
+
+
+# Myth of P-value
+
+
