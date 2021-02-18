@@ -19,6 +19,6 @@ create_github_token()
 #token:  472404eb3e4122feab10e316bba0ce54d635db10
 gitcreds::gitcreds_set()
 
-# usethis::use_git()
-# usethis::use_git_remote("origin", url = NULL, overwrite = TRUE)
-# usethis::use_github()
+usethis::use_git()
+usethis::use_git_remote("origin", url = NULL, overwrite = TRUE)
+usethis::use_github()
