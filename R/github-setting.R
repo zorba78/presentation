@@ -19,5 +19,5 @@ git_sitrep()
 #token:  472404eb3e4122feab10e316bba0ce54d635db10
 gitcreds::gitcreds_set()
 usethis::use_git()
-# usethis::use_git_remote("origin", url = 'https://github.com/zorba78/presentation.git')
+usethis::use_git_remote("origin", url = NULL, overwrite = TRUE)
 usethis::use_github()
