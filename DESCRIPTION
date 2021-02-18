@@ -5,7 +5,8 @@ Authors@R:
     person(given = "Boncho",
            family = "Ku",
            role = c("aut", "cre"),
-           email = "secondmoon@kiom.ew.ke")
+           email = "secondmoon@kiom.re.kr", 
+           comment = c(ORCID = "0000-0001-5520-9782"))
 Description: This repository contains the materials for talks and presentations
 License: MIT + file LICENSE
 ByteCompile: true
